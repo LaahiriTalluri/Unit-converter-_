@@ -16,12 +16,12 @@ An Android application to convert units across different categories: Temperature
 - **Volume Conversion:** Convert between liters, milliliters, gallons, quarts, and pints.
 
 ## Screenshots
-![Temperature Conversion](screenshots/1.png)
-![Weight Conversion](screenshots/2.png)
-![Length Conversion](screenshots/3.png)
-![Speed Conversion](screenshots/4.png)
-![Frequency Conversion](screenshots/5.png)
-![Volume Conversion](screenshots/6.png)
+![Temperature Conversion](1.png)
+![Weight Conversion](2.png)
+![Length Conversion](3.png)
+![Speed Conversion](4.png)
+![Frequency Conversion](5.png)
+![Volume Conversion](6.png)
 
 
 ### Prerequisites
